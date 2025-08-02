@@ -7,7 +7,8 @@ The dashboard provides insights into yearly performance, customer demographics, 
 ---
 
 ## 📸 Dashboard Preview
-![Forever Store Dashboard]https://github.com/AVYAYAWASTHI-010/Forever-Store-Analysis-using-MS-Excel/blob/main/Forever%20Store%20Dashboard.jpg
+![Forever Store Dashboard](https://raw.githubusercontent.com/AVYAYAWASTHI-010/Forever-Store-Analysis-using-MS-Excel/main/Forever%20Store%20Dashboard.jpg)
+
 
 ---
 
